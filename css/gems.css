@@ -10,6 +10,7 @@
 
 /* Select the image with class of emerald */
 
+#emerald
 /*selector for emerald goes here */  {
   position: absolute;
   z-index: 2;
@@ -19,6 +20,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
+#sapphire
 /*selector for sapphire goes here */{
   position: absolute;
   z-index: 5;
@@ -28,6 +30,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
+#yellow_diamond
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
@@ -36,6 +39,7 @@
 }
 
 /* Select the image that has ad id of diamond */
+#diamond
 /*selector for diamond goes here */ {
   position: absolute;
   z-index: 3;
