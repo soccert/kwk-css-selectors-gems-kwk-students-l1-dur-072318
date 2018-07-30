@@ -30,7 +30,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-#yellow_diamond
+.yellow_diamond
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
