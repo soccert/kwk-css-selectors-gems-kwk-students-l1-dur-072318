@@ -1,5 +1,6 @@
 /* Select the image with a id of ruby */
 
+#ruby
 /*selector for ruby goes here */  {
   position: absolute;
   z-index: 1;
